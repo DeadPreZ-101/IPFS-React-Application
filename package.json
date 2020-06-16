@@ -1,6 +1,5 @@
 {
-  "homepage": "https://n-bhasin.github.io/SImpleIPFS/",
-  "name": "ipfs-simple-app",
+  "name": "IPFS-React-Application",
   "version": "0.1.0",
   "license": "MIT",
   "private": true,
@@ -13,7 +12,8 @@
     "ipfs-http-client": "^44.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "web3": "^1.2.9"
   },
   "scripts": {
     "predeploy": "npm run build",
